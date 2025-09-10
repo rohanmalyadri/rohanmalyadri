@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rohzyy/rohzyy/output/snake.svg" alt="Snake animation" />
+
 
 ###
    
